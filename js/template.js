@@ -1,3 +1,7 @@
+//if you have an api key
+// var apiKey = require('./../.env').apiKey;
+
+
 function ObjectName(){
   this.attribute = attribute;
 }
